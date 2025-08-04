@@ -1,0 +1,2 @@
+# Sentiment-Analysis-on-Twitter-Data-Using-Logistic-Regression-and-NLP-Techniques
+This project analyzes 800,000 tweets using NLP and Logistic Regression. Preprocessing includes tokenization, lemmatization, and stemming, with TF-IDF for vectorization. The model achieves 77% accuracy, and a user interface predicts sentiment (positive/negative) from input text, showcasing ML for sentiment analysis.   Activity
